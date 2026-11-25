@@ -1,0 +1,9 @@
+# Personal data, copyrighted books and original zip bundles: never publish.
+privado/
+
+# Intermediate transcription images.
+**/scratch/
+
+# Internal pipeline notes.
+2026-2/odd/
+2026-2/docs/

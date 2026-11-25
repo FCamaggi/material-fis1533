@@ -1,0 +1,251 @@
+---
+title: "I2 2023-1"
+source_pdf: "Electro/pruebas-anteriores/I2/I2 2023-1 (versión completa).pdf"
+pages: 12
+pdf_kind: "PDF (texto)"
+extraction_mode: "pdftotext_cleaned"
+---
+# I2 2023-1
+
+### Página 1
+
+FIS1533: Primer semestre 2023
+
+Interrogación 2
+
+Interrogación 2
+Fecha: 8 de junio de 2023
+- Escriba su nombre, RUT, y sección de forma clara y legible en cada hoja.
+- Debe firmar el acta de asistencia y mostrar su TUC o cédula de identidad al momento de firmar.
+- Está prohibido el uso de aparatos electrónicos: calculadora, celulares, etc.
+- La prueba consta de 2 preguntas de desarrollo y otras 6 de selección múltiple.
+- Las preguntas de desarrollo tienen un puntaje máximo de 3 puntos cada una y las preguntas de selección
+múltiple tienen un puntaje de un punto cada una en caso de ser respondida correctamente.
+- En el caso de las preguntas de selección múltiple debe seleccionar solo una respuesta para cada pregunta.
+Para ello debe rellenar completamente el círculo de la respuesta seleccionada, de lo contrario su respuesta
+se considerará inválida. El desarrollo de las preguntas de selección múltiple no se considera en la
+corrección.
+- Las respuestas incorrectas NO descuentan puntaje.
+- Esta prueba tiene una duración de 150 minutos, incluyendo en este plazo el tiempo necesario para
+entregar su hoja de respuestas.
+- IMPORTANTE: Al finalizar la interrogación, entregue el desarrollo de las preguntas 1 y 2 de forma
+independiente (en hojas separadas), además entregue la hoja de respuestas de las preguntas de selección
+múltiple.
+- El trabajo es individual y está absolutamente prohibida la colaboración o la copia.
+- Se aceptan preguntas de enunciado solo dirigidas al profesor(a).
+
+Forma 1
+
+---
+
+### Página 2
+
+1. Considere un condensador de capacitancia C inicialmente descargado, el cual se comienza a cargar
+al conectar (en t = 0) el interruptor S del circuito mostrado en la figura.
+a) Obtenga la ecuación diferencial para el voltaje VC (t) entre los terminales del condensador (1
+punto).
+b) Obtenga la solución de la ecuación diferencial obtenida en a), incorporando la condición inicial
+correspondiente (1 punto).
+c) Para t → ∞ el condensador estará completamente cargado y el voltaje VC alcanzará su valor
+máximo. Usando el resultado de b) obtenga este valor máximo (0.5 puntos).
+d) Grafique la solución VC (t) obtenida en b) (0.5 puntos).
+Note que ε, C, R1 y R2 son datos del problema.
+
+2. (3 puntos) La espira de la figura está formada por dos segmentos rectos de largo L, uno de largo 2L
+y otro semicircular de radio L. Si la espira conduce una corriente total I en la dirección mostrada en
+la figura, calcule el campo magnético ⃗B en el punto A (centro del semicírculo).
+
+---
+
+### Página 3
+
+3. Considere el circuito RC mostrado en la figura, en el cual el condensador de capacitancia C1 está
+inicialmente cargado con carga Q mientras que el condensador de capacitancia C2 está inicialmente
+descargado. Al conectar el interruptor comienza a circular una corriente eléctrica hasta que el
+sistema llega al equilibrio.
+El calor total disipado en la resistencia R desde que se cierra el interruptor hasta que el sistema llega
+al equilibrio es:
+
+a)
+
+C2 Q2
+2C1 (C1 + C2 )
+
+b)
+
+Q2
+2C1
+
+c)
+
+C1 Q2
+2C2 (C1 + C2 )
+
+d)
+
+Q2
+2(C1 + C2 )
+
+4. Considere una partícula cargada que se mueve a través de un campo magnético constante y
+uniforme. La fuerza debida al campo magnético sobre esta partícula:
+a) Aumenta la energía cinética, cualquiera sea el signo de la carga.
+b) Es independiente de la velocidad de la partícula, sin importar la dirección de movimiento.
+c) No cambia la energía cinética de la partícula.
+d) Realiza un trabajo proporcional a la magnitud de la carga.
+
+---
+
+### Página 4
+
+5. Se tiene un alambre recto e infinito, fijo en el espacio y orientado en la dirección del eje x, por el
+cual fluye una corriente I1 . Bajo este alambre se ubica otro alambre infinito y recto, orientado en
+la dirección del eje y, por el cual fluye una corriente I2 , tal como se indica en la figura. La fuerza
+magnética entre los dos conductores tendrá como efecto:
+
+a) Empujar el cable que acarrea la corriente I2 hacia adentro del plano del papel.
+b) Tirar hacia afuera del plano del papel el cable que acarrea la corriente I2 .
+c) Hacer girar el cable que acarrea la corriente I2 en sentido horario.
+d) Hacer girar el cable que acarrea la corriente I2 en sentido antihorario.
+
+---
+
+### Página 5
+
+6. Un alambre de sección rectangular, área A0 y largo L, está sometido a una diferencia de temperatura
+entre sus extremos, partiendo de T1 y llegando a T2 . La resistividad eléctrica del alambre, como
+función de la temperatura se puede modelar como:
+ρ( T ) = ρ0 (1 + α( T − T0 ))
+con α, ρ0 y T0 conocidos.
+
+Si la temperatura a lo largo del alambre se describe por una función lineal, en la cual T1 = T0 , y
+T2 = 2T0 , entonces la Resistencia total del alambre será:
+a)
+
+ρ0 L
+αT
+(1 + 0 )
+A0
+
+b)
+
+ρ0 L
+3αT0
+)
+(1 +
+A0
+
+c)
+
+ρ0 L
+(1 + αT0 )
+A0
+
+d)
+
+ρ0 L
+(1 + 2αT0 )
+A0
+
+---
+
+### Página 6
+
+7. Suponga una resistencia de seccion transversal variable cuya área se comporta como A( x ) = αx2 ,
+con α conocido, donde x varía entre x1 y x2 , como se vé en la figura. En los extremos de la resistencia,
+esta se somete a una diferencia de potencial V0 , mediante electrodos que cubren perfectamente las
+caras inicial y final de la resistencia.
+
+Si x1 = ℓ, y x2 = 2ℓ, con ℓ conocido, el valor de la corriente que circulará por la resistencia sera:
+a)
+
+6αV0 ℓ
+ρ0
+
+b)
+
+3αV0 ℓ
+2ρ0
+
+c)
+
+4αV0 ℓ
+3ρ0
+
+d)
+
+2αV0 ℓ
+ρ0
+
+---
+
+### Página 7
+
+8. Electrones con carga −e son usados para determinar la magnitud de un campo magnético ⃗B,
+constante e independiente del tiempo, confinado a la zona achurada indicada en la figura. Los
+electrones son acelerados desde el reposo al pasar a través de dos placas entre las cuales exista una
+diferencia de potencial ∆V = V2 − V1 .
+
+Encuentre la magnitud de ⃗B si los electrones impactan una pantalla colocada en x = 0 en el punto
+(0, a, 0). Suponga que la masa m y la carga del electrón son conocidas.
+r
+1 32m∆V
+a)
+a
+e
+r
+1 2m∆V
+b)
+a
+e
+r
+1 8m∆V
+c)
+a
+e
+r
+1 m∆V
+d)
+a
+2e
+
+---
+
+### Página 8
+
+*(Página sin texto extraíble; contiene solo figuras o contenido escaneado)*
+
+---
+
+### Página 9
+
+*(Página sin texto extraíble; contiene solo figuras o contenido escaneado)*
+
+---
+
+### Página 10
+
+PROBLEMA 2: Biot-Savart
+
+0.25 puntos
+
+0.25 puntos
+
+---
+
+### Página 11
+
+0.5 puntos
+
+0.25 puntos
+
+0.25 puntos
+
+0.5 puntos
+
+---
+
+### Página 12
+
+0.5 puntos
+
+0.5 puntos
